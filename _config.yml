@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Computer Science 0
+title: CS0
 tagline: Howard Univesity CS0 Fall 2022
-description: Intro to Computer Science
+description: Intro to Computer Science (aka CSCI100 aka CS0)
 author: Andre Campbell
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://hucs0.org' # the base hostname & protocol for your site, e.g. http://example.com
