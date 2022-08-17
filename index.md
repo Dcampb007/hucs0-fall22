@@ -12,10 +12,10 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{% if site.announcements %}
-{{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
-{% endif %}
+
+
+## Welcome to your course homepage
+This page will display the most recent announcement AND course outline. You can find the complete list of announcements and course modules in the navigation bar. 
 
 ## About the Class
 
@@ -23,7 +23,14 @@ CSCI100 (aka CS0) is an introductory class designed for students with no formal 
 
 See the [Syllabus page](syllabus.md) for more details on course policies.
 
-## Course Materials
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+## Announcements
+{% if site.announcements %}
+{{ site.announcements.last }}
+[All Announcements](announcements.md){: .btn}
+{% endif %}
+
+## Course Modules
+{% if site.modules %}
+{{ site.modules.last }}
+[All Course Modules](course_outline.md){: .btn}
+{% endif %}
