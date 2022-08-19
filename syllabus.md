@@ -46,7 +46,7 @@ Lectures for this course will be 100% in-person. Classtime will be a mixture of 
 
 
 ### Labs
-Lab for this course will be in person. Labs will allow you to apply the new concepts that you're learning in lecture to broader, graded problems. You will be given problems to solve, that you'll be able to work on with your peers in groups of 3-4. Your labs will be submitted on Codio and graded by the Codio autograder. Labs will be released each Wednesday evening, and will be due the following Tuesday at 11:59pm. 
+Lab for this course will be in person. Labs will allow you to apply the new concepts that you're learning in lecture to broader, graded problems. You will be given problems to solve, that you'll be able to work on with your peers in groups of 3-4. You must submit your labs individually and identify who you worked with. Labs will be submitted on Codio and graded by the Codio autograder. Labs will be released (INSERT LAB RELEASE SCHEDULE) 
 
 You should take advantage of labs as you can ask the professor or TAs for help on completing the assignments. 
 
