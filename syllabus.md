@@ -30,10 +30,20 @@ By the end of the course, students will learn
  - Sets and Dictionaries
 
 ## Course Meetings
-Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
+Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md). You must attend the lecture/lab time that you are assigned on bisonweb. 
+
+
+Lecture and Lab Location: Mackey Building INNOV CTR.
+
+| Section | Lecture| Lab |
+|:-------------|:------|:------|
+| Section 1 |  MW 9:10AM - 10:00AM | Thur 9:10AM - 10:00AM |
+| Section 2 |  MW 10:10AM - 11:00AM | Thur 10:10AM - 11:00AM |
+| Section 3 |  MW 2:10PM - 3:00PM | Thur 12:40PM - 1:30PM |
 
 ### Lecture
 Lectures for this course will be 100% in-person. Classtime will be a mixture of lecturing, live-coding demos, group work and interactive discussions You are expected to come to each class as there will be weekly quizzes given at a random time during class based on previous class materials. 
+
 
 ### Labs
 Lab for this course will be in person. Labs will allow you to apply the new concepts that you're learning in lecture to broader, graded problems. You will be given problems to solve, that you'll be able to work on with your peers in groups of 3-4. Your labs will be submitted on Codio and graded by the Codio autograder. Labs will be released each Wednesday evening, and will be due the following Tuesday at 11:59pm. 
@@ -48,10 +58,20 @@ As a course, we commit to making sure no student fails the class due to lack of 
 
 ## Policies
 
-### Grades
-The class will *not* be curved. Instead, your final grade will be based on buckets of your overall score in the class that will be decided at the end of the semester based on the difficulty of the exams, quizzes, projects, labs, and homework.
+### Grade Weighting
 
-{INSERT DETAILS ABOUT TWO RUBRIC GRADING SCHEME} 
+There will be two grading systems, both very similar, which will be applied to your work throughout the course. **Your final grade will be the greater of the two scores.** The intention here is for you to focus less on obtaining a certain grade. Instead you should focus on mastering and really understand the concepts that will be covered in this class. You will have many opportunities to demonstrate your understandings, hence the two grading systems. The two weighting systems are:
+
+| Assignment Type | Weight in Overall Grade System 1 | Weight in Overall Grade System 2 |
+|:-------------|:------|:------|
+| Midterm Exam 1 |  7%  | 13% |
+| Midterm Exam 2 | 12%  | 18% |
+| Final Exam | 17% | 23% |
+| Homeworks | 13% | 7% |
+| Project 1 | 18% | 12% |
+| Project 2 | 23% | 17% |
+| Quizzes | 5% | 5% |
+| Attendance | 5% | 5% |
 
 ### Assignments
 These details are subject to change during the semester, however the current plan of record is the following:
