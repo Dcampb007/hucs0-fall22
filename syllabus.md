@@ -105,7 +105,7 @@ You will get a link to sign up for this tool when we begin class. We will use Co
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. You can find the [class Piazza here](https://piazza.com/howard/fall2021/csci100/home).
 
 **Zoom**
-In light of the large class size and COVID risks, our weekly lectures and labs will be taught virtually over Zoom. You can find the Zoom link for your section at [https://csci100.org/schedule/](https://csci100.org/schedule/).
+In light of the large class size and COVID risks, our weekly lectures and labs will be taught virtually over Zoom. You can find the Zoom link for your section at [https://csci100.org/schedule/](https://hucs0.org/schedule/).
 
 **Blackboard**
 Your official class midterm and final grades will be published in Blackboard. You should already have a Blackboard account. Get in touch with your advisor if you can't access the course on Blackboard. Other than occasionally syncing grades to Blackboard, we will not be using Blackboard.
