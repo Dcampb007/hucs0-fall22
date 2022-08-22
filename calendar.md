@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Schedule
-description: The weekly event schedule.
+title: Calendar
+description: Course dynamic calendar w/ OH.
 ---
 
-# Weekly Schedule
+# Course Calendar
 
 For virtual events, join via the Zoom or Google Meet link in the calendar event description. 
 
