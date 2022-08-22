@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Course Outline
+title: Schedule
 description: Listing of course modules and topics.
 ---
 
-# Course Outline
+# Course Schedule
 
 {% for module in site.modules %}
 {{ module }}
