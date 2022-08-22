@@ -1,23 +1,18 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Aug 22
+: **Intro, Logistics, Computers**
+: **Pre-Lecture Videos**{: .label .label-blue } [Lecture 1.3 and 1.4](https://youtube.com/playlist?list=PLr509y092L29Yfu6uie3T0ArYdJsuKpeQ){:target="_blank"}
+  
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Aug 24
+: **Languages, Codio Overview,  Hello World**
+: **Pre-Lecture Videos**{: .label .label-blue } [Lecture 2.1](https://youtube.com/playlist?list=PLr509y092L28k205TvV5QwoqRMUsOn5Ch){:target="_blank"}
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Aug 25
+: **Lab**{: .label .label-purple }Lab 1: TBD
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+<!-- Aug 27
+: **HW 1 due**{: .label .label-red }[Who am I?](#) -->
