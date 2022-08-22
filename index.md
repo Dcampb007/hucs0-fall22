@@ -15,7 +15,7 @@ seo:
 
 
 ## Welcome to your course homepage
-This page will display the most recent announcement AND course outline. You can find the complete list of announcements and course modules in the navigation bar. 
+This page will display the most recent announcement AND course schedule. You can find the complete list of announcements and course modules in the navigation bar. 
 
 ## About the Class
 
