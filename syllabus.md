@@ -42,11 +42,10 @@ Lecture and Lab Location: Mackey Building INNOV CTR.
 | Section 3 |  MW 2:10PM - 3:00PM | Thur 12:40PM - 1:30PM |
 
 ### Lecture
-Lectures for this course will be 100% in-person. Classtime will be a mixture of lecturing, live-coding demos, group work and interactive discussions You are expected to come to each class as there will be weekly quizzes given at a random time during class based on previous class materials. 
-
+Lectures for this course will be 100% virtual. This class will use a hybrid classroom model, where pre-lecture videos will be sent out before class that you must watch. You will be expected to have watched the videos before class. classtime will be spent in the following ways: reviewing materials mentioned in the videos, adding more explanation where needed, answering student questions on the material, and working through practice problems. You are expected to come to each class, having watched the lecture videos, as there will be weekly quizzes given at a random time during class. 
 
 ### Labs
-Lab for this course will be in person. Labs will allow you to apply the new concepts that you're learning in lecture to broader, graded problems. You will be given problems to solve, that you'll be able to work on with your peers in groups of 3-4. You must submit your labs individually and identify who you worked with. Labs will be submitted on Codio and graded by the Codio autograder. Labs will be released (INSERT LAB RELEASE SCHEDULE) 
+Labs for this course will be 100% virtual. Labs will allow you to apply the new concepts that you're learning in lecture to broader, graded problems. You will be given problems to solve, that you'll be able to work on with your peers in groups of 4. Your labs will be submitted on Codio and graded by the Codio autograder. Labs will be released each Wednesday evening, and will be due the following Tuesday at 11:59pm. 
 
 You should take advantage of labs as you can ask the professor or TAs for help on completing the assignments. 
 
@@ -105,7 +104,7 @@ You will get a link to sign up for this tool when we begin class. We will use Co
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. You can find the [class Piazza here](shortl.io/cs0-piazza){:target="_blank"}.
 
 **Zoom**
-In light of the large class size and COVID risks, our weekly lectures and labs will be taught virtually over Zoom. You can find the Zoom link for your section at [https://csci100.org/schedule/](https://hucs0.org/schedule/).
+In light of the large class size and COVID risks, our weekly lectures and labs will be taught virtually over Zoom. You can find the Zoom link for your section at [https://hucs0.org/schedule/](https://hucs0.org/schedule/).
 
 **Blackboard**
 Your official class midterm and final grades will be published in Blackboard. You should already have a Blackboard account. Get in touch with your advisor if you can't access the course on Blackboard. Other than occasionally syncing grades to Blackboard, we will not be using Blackboard.
