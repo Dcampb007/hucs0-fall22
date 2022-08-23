@@ -101,7 +101,7 @@ This course website, [hucs0.org](https://www.hucs0.org), will be your one-stop r
 You will get a link to sign up for this tool when we begin class. We will use Codio for editing and turning in assignments. Note that Codio may display a “grade” for you, but the official one is in Blackboard.
 
 **Piazza**
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. You can find the [class Piazza here](https://shortl.io/cs0-piazza){:target="_blank"}.
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. You can find the [class Piazza here](https://www.shortl.io/cs0-piazza){:target="_blank"}.
 
 **Zoom**
 In light of the large class size and COVID risks, our weekly lectures and labs will be taught virtually over Zoom. You can find the Zoom link for your section at [https://hucs0.org/schedule](https://hucs0.org/schedule/).
