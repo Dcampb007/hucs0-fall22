@@ -87,7 +87,7 @@ Instead of one midterm and one final exam, this course will have 3 exams, spaced
 
 ### Cheating
 
-For all assignments in the course, you may discuss approaches to solving a problem or work in the same room on separate computers to individually solve a problem, but **you may *not* copy and paste code or substantially copy ideas from another student**. It can be tempting to cheat. Know that Mimir's autograder has a very good plagiarism detector. Per Howard University policy, the first time an assignment is found to be plagiarized, the assignment grade will be zero-ed out for all students with matching code. The second time, all students involved will have their final course grade decreased by 1 letter grade (B going to a C, A- does to a B-, etc.). The third time, all students involved will be referred to the Dean's office for academic dishonesty. 
+For all assignments in the course, you may discuss approaches to solving a problem or work in the same room on separate computers to individually solve a problem, but **you may *not* copy and paste code or substantially copy ideas from another student**. It can be tempting to cheat. Know that Codio's autograder has a very good plagiarism detector. Per Howard University policy, the first time an assignment is found to be plagiarized, the assignment grade will be zero-ed out for all students with matching code. The second time, all students involved will have their final course grade decreased by 1 letter grade (B going to a C, A- does to a B-, etc.). The third time, all students involved will be referred to the Dean's office for academic dishonesty.
 
 If I ask you how your code works and you do not know, it will be evident that you have copied it. Don't take the risk. Despite this explicit warning, each year, a few students still cheat and are caught. I do not enjoy catching and penalizing students for plagiarism, but it's necessary for 
 
@@ -101,10 +101,10 @@ This course website, [hucs0.org](https://www.hucs0.org), will be your one-stop r
 You will get a link to sign up for this tool when we begin class. We will use Codio for editing and turning in assignments. Note that Codio may display a “grade” for you, but the official one is in Blackboard.
 
 **Piazza**
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. You can find the [class Piazza here](shortl.io/cs0-piazza){:target="_blank"}.
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. You can find the [class Piazza here](https://shortl.io/cs0-piazza){:target="_blank"}.
 
 **Zoom**
-In light of the large class size and COVID risks, our weekly lectures and labs will be taught virtually over Zoom. You can find the Zoom link for your section at [https://hucs0.org/schedule/](https://hucs0.org/schedule/).
+In light of the large class size and COVID risks, our weekly lectures and labs will be taught virtually over Zoom. You can find the Zoom link for your section at [https://hucs0.org/schedule](https://hucs0.org/schedule/).
 
 **Blackboard**
 Your official class midterm and final grades will be published in Blackboard. You should already have a Blackboard account. Get in touch with your advisor if you can't access the course on Blackboard. Other than occasionally syncing grades to Blackboard, we will not be using Blackboard.
