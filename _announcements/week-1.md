@@ -14,7 +14,7 @@ We will be meeting virtually this semester. You can use [shortl.io/cs0-zoom](htt
 
 - How to access Piazza : [shortl.io/cs0-piazza](https://shortl.io/cs0-piazza)
   - Term: Fall 2022
-  - Class Name: CS0: Intro to Computer Science
+  - Class 1:  "CS0: Intro to Computer Science"
   - Class Code: cs0
 
 - Videos to watch: [week 1](https://hucs0.org/schedule/#week-1)
