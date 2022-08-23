@@ -32,9 +32,6 @@ By the end of the course, students will learn
 ## Course Meetings
 Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md). You must attend the lecture/lab time that you are assigned on bisonweb. 
 
-
-Lecture and Lab Location: Mackey Building INNOV CTR.
-
 | Section | Lecture| Lab |
 |:-------------|:------|:------|
 | Section 1 |  MW 9:10AM - 10:00AM | Thur 9:10AM - 10:00AM |
