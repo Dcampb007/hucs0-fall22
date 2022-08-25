@@ -17,5 +17,5 @@ The ***Unix Commands Assignment*** is for your reference, but I STRONGLY recomme
 Please make sure to mark the assignment as Complete when you're done to indicate that it's ready to be graded.
 
 If you’re not signed up for Codio, please do it before the lab tomorrow.
-[www.shortl.io/cs0-codio-signup](www.shortl.io/cs0-codio-signup)
+[www.shortl.io/cs0-codio-signup](https://www.shortl.io/cs0-codio-signup)
 
