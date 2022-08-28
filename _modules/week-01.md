@@ -12,7 +12,6 @@ Aug 24
 : **Pre-Lecture Videos**{: .label .label-blue } [Lecture 2.1](https://youtube.com/playlist?list=PLr509y092L28k205TvV5QwoqRMUsOn5Ch){:target="_blank"}
 
 Aug 25
-: **Lab**{: .label .label-purple }Lab 1: TBD
-
-<!-- Aug 27
-: **HW 1 due**{: .label .label-red }[Who am I?](#) -->
+: **Lab**{: .label .label-purple }Lab 1.1: Printing
+: **Lab**{: .label .label-purple }Lab 1.2: Greeting and Water Flask
+: **HW 0**{: .label .label-red }[Getting to know you](#)

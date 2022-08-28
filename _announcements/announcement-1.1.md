@@ -3,7 +3,6 @@ title: Announcement 1.1 - Welcome to CSCI100 - Intro to Computer Science (aka CS
 week: 1
 date: 2022-08-22
 ---
-
 We will be meeting virtually this semester. You can use [www.shortl.io/cs0-zoom](https://www.shortl.io/cs0-zoom) to access the class zoom meeting. This link is also located in the description section of each lecture/lab event on the [Course Calendar](https://www.shortl.io/cs0-calendar) .
 
 ***Please do the following tasks before Lecture on Wednesday.***  We will start introducing course material then. If you have any questions, ask on Piazza :)
@@ -16,7 +15,7 @@ We will be meeting virtually this semester. You can use [www.shortl.io/cs0-zoom]
   - Class 1:  "CS0: Intro to Computer Science"
   - Class Code: cs0
 
-- Videos to watch: [week 1](https://hucs0.org/schedule/#week-1)
+- Videos to watch: [week 1](../schedule/#week-1)
   - Watch Aug 22 pre-lecture videos
   - Watch Aug 24 pre-lecture videos
 

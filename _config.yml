@@ -28,8 +28,15 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Codio:
+    - 'https://codio.com/home/student?course_id=76f65424b23ec0867ce4804ddb2eb99f'
+  Piazza:
+    - 'https://piazza.com/class/l6vgfi5d80x6rz'
+  Pre-Lecture Videos:
+    - 'https://www.youtube.com/channel/UCS-xiMGMN9YsMxQnqAai4hw'
   PythonTutor:
     - 'https://pythontutor.com/composingprograms.html#mode=edit'
+
 footer_content:
 
 # Collections for website data
