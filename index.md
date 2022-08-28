@@ -29,8 +29,8 @@ See the [Syllabus page](syllabus.md) for more details on course policies.
 [All Announcements](announcements.md){: .btn}
 {% endif %}
 
-## Course Modules
+## Course Schedule
 {% if site.modules %}
 {{ site.modules.last }}
-[All Course Modules](course_outline.md){: .btn}
+[Full Course Schedule](schedule.md){: .btn}
 {% endif %}
