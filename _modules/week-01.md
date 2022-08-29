@@ -14,4 +14,4 @@ Aug 24
 Aug 25
 : **Lab**{: .label .label-purple }Lab 1.1: Printing
 : **Lab**{: .label .label-purple }Lab 1.2: Greeting and Water Flask
-: **HW 0**{: .label .label-red }[Getting to know you](#)
+: **HW 0**{: .label .label-red }[Getting to know you](https://forms.gle/rz4Y7xan5WhtE4Lt8){:target="_blank"} )
