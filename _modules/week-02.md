@@ -9,7 +9,7 @@ Aug 29
 
 Aug 31
 : **Data Types and Operators**
-: **Pre-Lecture Videos**{: .label .label-blue } [Lecture 4 (ALL)](https://youtube.com/playlist?list=PLr509y092L28k205TvV5QwoqRMUsOn5Ch){:target="_blank"}
+: **Pre-Lecture Videos**{: .label .label-blue } [Lecture 4 (ALL)](https://youtube.com/playlist?list=PLr509y092L28OfTqL6EiJwlk3ycYGYaQI){:target="_blank"}
 
 Sept 1
 : **Lab**{: .label .label-purple }Lab 2: TBD
