@@ -18,6 +18,16 @@ Office hours will be posted on the [course calendar](calendar.md)
 {{ staffer }}
 {% endfor %}
 
+{% assign collaborators = site.staffers | where: 'role', 'Curriculum Collaborator' %}
+{% assign num_collaborators = collaborators | size %}
+{% if num_collaborators != 0 %}
+## Curriculum Collaborators
+
+{% for staffer in collaborators %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
 {% assign howard_teaching_assistants = site.staffers | where: 'role', 'Howard Teaching Assistant' %}
 {% assign num_howard_teaching_assistants = howard_teaching_assistants | size %}
 {% if num_howard_teaching_assistants != 0 %}
@@ -41,6 +51,7 @@ Office hours will be posted on the [course calendar](calendar.md)
 {% assign google_career_coaches = site.staffers | where: 'role', 'Google Career Coach' %}
 {% assign num_google_career_coaches = google_career_coaches | size %}
 {% if num_google_career_coaches != 0 %}
+
 ## Google Career Coaches
 
 {% for staffer in google_career_coaches %}
