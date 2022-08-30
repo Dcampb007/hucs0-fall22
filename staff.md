@@ -8,6 +8,9 @@ description: A listing of all the course staff members.
 
 For a quicker response on homework or project help, please ask on Piazza rather than emailing staff members individually. On Piazza, all staff members can see your question and answer it.
 
+
+Office hours will be posted on the [course calendar](calendar.md)
+
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
