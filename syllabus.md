@@ -63,19 +63,17 @@ There will be two grading systems, both very similar, which will be applied to y
 | Midterm Exam 1 |  7%  | 13% |
 | Midterm Exam 2 | 12%  | 18% |
 | Final Exam | 17% | 23% |
-| Homeworks | 13% | 7% |
-| Project 1 | 18% | 12% |
-| Project 2 | 23% | 17% |
+| Labs and Homeworks | 18% | 12% |
+| Projects | 41% | 29% |
 | Quizzes | 5% | 5% |
-| Attendance | 5% | 5% |
 
 ### Assignments
 These details are subject to change during the semester, however the current plan of record is the following:
 
 - ~8 Quizzes - random during lecture time, once a week. 
 - 12 Labs - 1x per week. Work w/ partners, submit individually
-- 5 Homeworks - spread throughout the semester. Work individually, submit individually.
-- 2 Projects - {INSERT PROJECTS}
+- Homeworks - spread throughout the semester. Work individually, submit individually.
+- Projects
 
 Assignments will be due at 11:59pm, with a 10% penalty per each day that the assignment is late up to 5 days total.
 
