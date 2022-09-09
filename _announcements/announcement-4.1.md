@@ -6,8 +6,8 @@ date: 2022-09-09
 
 #### Things to do:
 
-* Watch Week 4 pre-lecture videos [week 4](https//www.hucs0.org/schedule/#week-4)
-* Fill out the Google student pre-survey on Codio before EOD Monday
+* Watch Week 4 pre-lecture videos [week 4](https//www.hucs0.org/schedule/#week-4){:target="_blank"}
+* Fill out the [Google student pre-survey](https://google.qualtrics.com/jfe/form/SV_0kbwxo0tmOn0yCW){:target="_blank"} and do the assignment on Codio before EOD Monday to receive credit!
 
 #### Upcoming events:
 
