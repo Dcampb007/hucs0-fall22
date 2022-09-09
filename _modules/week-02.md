@@ -14,4 +14,4 @@ Aug 31
 : **Pre-Lecture Videos**{: .label .label-blue } [Lecture 4 (ALL)](https://youtube.com/playlist?list=PLr509y092L28OfTqL6EiJwlk3ycYGYaQI){:target="_blank"}
 
 Sept 1
-: **Lab**{: .label .label-purple }Lab 2: TBD
+: **Lab**{: .label .label-purple }Lab 2: Expressions and Variables
