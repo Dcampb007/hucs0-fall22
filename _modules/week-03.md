@@ -10,4 +10,4 @@ Sept 7th
 : **Pre-Lecture Videos**{: .label .label-blue } [Lecture 5 (5.2-5.4, 5.5(No indexing))](https://youtube.com/playlist?list=PLr509y092L28AOrUdphblWlh_sJYcu4RR){:target="_blank"}
 
 Sept 8th
-: **Lab**{: .label .label-purple }Lab 3: TBD
+: **Lab**{: .label .label-purple }Lab 3: Conditionals and String Functions
