@@ -3,7 +3,7 @@ title: Announcement 2.1 - Week 2 Updates
 week: 2
 date: 2022-08-28
 ---
-Pre-lecture videos are available for [Week 2](../schedule/#week-2)
+Pre-lecture videos are available for [Week 2](https://hucs0.org/schedule/#week-2)
   - Watch Aug 29 pre-lecture videos
   - Watch Aug 31 pre-lecture videos
 

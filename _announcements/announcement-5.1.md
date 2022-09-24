@@ -6,8 +6,8 @@ date: 2022-09-23
 
 #### Things to do:
 
-* Watch Week 6 pre-lecture videos [week 6](https//www.hucs0.org/schedule/#week-6){:target="_blank"}
-* Fill out Office Hours Feedback Form [shortl.io/cs0-oh-feedback](https//www.shortl.io/cs0-oh-feedback){:target="_blank"}
+* Watch Week 6 pre-lecture videos [week 6](https://hucs0.org/schedule/#week-6)
+* Fill out Office Hours Feedback Form [shortl.io/cs0-oh-feedback](https://www.shortl.io/cs0-oh-feedback){:target="_blank"}
 
 #### Updates:
 

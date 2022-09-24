@@ -8,7 +8,7 @@ date: 2022-09-02
 
 
 #### Things to do:
-* Watch Week 3 pre-lecture videos [week 3](https//www.hucs0.org/schedule/#week-3)
+* Watch Week 3 pre-lecture videos [week 3](https://www.hucs0.org/schedule/#week-3)
 * Check Codio for a short 10 minute survey from Google entitled **“Google Student Pre-Survey”**. This survey is due September 12th @ 11:59PM.  
 
 #### Upcoming events:
