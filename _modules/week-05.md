@@ -8,4 +8,4 @@ Sept 21th
 : **Exam One**
 
 Sept 22th
-: **Lab**{: .label .label-purple } TDB
+: **Lab**{: .label .label-purple } CANCELLED
