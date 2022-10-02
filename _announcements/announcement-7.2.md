@@ -3,9 +3,8 @@ title: Announcement 7.2 - Supplemental Learning Tools
 week: 7
 date: 2022-10-02
 ---
-
 ## Supplemental Learning Tools
-Hi class!
+
 
 Here's a list of extra materials that you can use to practice your coding skills and understanding of the material taught in class:
 

@@ -10,10 +10,12 @@ date: 2022-10-02
 
 #### Updates:
 
-* Your TAs are working hard on grading your assignments up to now so we can let you know how you'd doing in the class as it relates to the grading scale. We should have something for you in the next week.
+* Your TAs are working hard on grading your assignments up to now so we can let you know how you'd doing in the class as it relates to the grading scale. We should have something for you *this* week.
+
+* Take a look at supplemental learning materials in [Announcement 7.2](https://hucs0.org/announcements){:target="_blank"}
 
 
 #### Reminders:
 
-* Lab 4 and Homework 1 are due Sunday, September 25th at 11:59PM for full credit. If you will need additional time, see Piazza [post@51](https://piazza.com/class/l6vgfi5d80x6rz/post/51){:target="_blank"}
+* Lab 5 is due October 5th at 11:59PM for full credit. If you will need additional time, see Piazza [post@51](https://piazza.com/class/l6vgfi5d80x6rz/post/51){:target="_blank"}
 
