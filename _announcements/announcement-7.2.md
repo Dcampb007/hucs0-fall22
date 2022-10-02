@@ -1,7 +1,7 @@
 ---
-title: Announcement 6.2 - Supplemental Learning Tools
-week: 6
-date: 2022-09-29
+title: Announcement 7.2 - Supplemental Learning Tools
+week: 7
+date: 2022-10-02
 ---
 
 ## Supplemental Learning Tools
