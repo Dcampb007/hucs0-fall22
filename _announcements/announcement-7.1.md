@@ -12,6 +12,8 @@ date: 2022-10-02
 
 * Your TAs are working hard on grading your assignments up to now so we can let you know how you'd doing in the class as it relates to the grading scale. We should have something for you *this* week.
 
+* Google STEP app is open! You can apply to the STEP applications at [g.co/jobs/step](https://g.co/jobs/step){:target="_blank"}
+
 * Take a look at supplemental learning materials in [Announcement 7.2](https://hucs0.org/announcements){:target="_blank"}
 
 
