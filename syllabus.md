@@ -63,8 +63,8 @@ There will be two grading systems, both very similar, which will be applied to y
 | Midterm Exam 1 |  7%  | 13% |
 | Midterm Exam 2 | 12%  | 18% |
 | Final Exam | 17% | 23% |
-| Labs and Homeworks | 18% | 12% |
-| Projects | 41% | 29% |
+| Labs and Homeworks | 33% | 27% |
+| Projects | 26% | 14% |
 | Quizzes | 5% | 5% |
 
 ### Assignments
