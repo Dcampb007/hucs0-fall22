@@ -11,4 +11,4 @@ Oct 12th
 : **Pre-Lecture Videos**{: .label .label-blue } [Lecture 8.4](https://youtu.be/J61n3ipQnSA){:target="_blank"}
 
 Oct 6th
-: **Lab**{: .label .label-purple }Lab 6: TBD
+: **Lab**{: .label .label-purple } Project 1 Released - [Wordle](https://shortl.io/cs0-project1){:target="_blank"}
