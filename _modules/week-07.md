@@ -13,4 +13,4 @@ Oct 5th
 : **Pre-Lecture Videos**{: .label .label-blue } [Lecture 8.1, 8.3](https://youtube.com/playlist?list=PLr509y092L29_eucVIY6vDewoz0DKEy6_){:target="_blank"}
 
 Oct 6th
-: **Lab**{: .label .label-purple }Lab 6: TBD
+: **Lab**{: .label .label-purple }Lab 6: Functions
