@@ -8,7 +8,7 @@ Oct 17th
 
 Oct 19th
 : **Lists Pt.2**
-  : [\[slides\]](){:target="_blank"}
+  : [\[slides\]](https://docs.google.com/presentation/d/1mQyRRAM2K0qlkuUB2A-rCbPczj8NMeVMsh2Y7N9c3aw/edit?usp=sharing){:target="_blank"}
 : **Pre-Lecture Videos**{: .label .label-blue } [Lecture 9.2, 9.4](https://youtube.com/playlist?list=PLr509y092L29-owhexIGvYZYF4-hfRGbJ){:target="_blank"}
 
 Oct 20th
