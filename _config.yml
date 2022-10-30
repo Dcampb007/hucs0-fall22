@@ -68,6 +68,7 @@ defaults:
       type: announcements
     values:
       layout: announcement
+      subpath: '/assets/images/'
 
 compress_html:
   clippings: all
