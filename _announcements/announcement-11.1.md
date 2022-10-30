@@ -5,7 +5,7 @@ date: 2022-10-30
 ---
 #### Updates:
 
-* Exam 2 is November 7th, 2022. This exam will be **in person** in Mackey Building, Innovation Lab. Click this link if you need a map [HU Map](/assets/images/HU_MAIN_CAMPUS_MACKEY_BUILDING.jpg){:target="_blank"}
+* Exam 2 is November 7th, 2022. This exam will be **in person** in Mackey Building, Innovation Lab. Click this link if you need a map [HU Map](https://hucs0.org/assets/images/HU_MAIN_CAMPUS_MACKEY_BUILDING.jpg){:target="_blank"}
   - The exam is on codio.
   - Please come with your laptops FULLY charged.
   - You can bring scrap paper if you'd like.
