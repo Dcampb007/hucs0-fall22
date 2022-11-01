@@ -9,8 +9,8 @@ Oct 31st
 : **HW**{: .label .label-red }Released on Codio: HW2
 
 Nov 2nd
-: **Dictionaries Pt.2 & Destructive Functions**
-  : [\[slides\]](){:target="_blank"}
+: **Destructive Functions**
+  : [\[slides\]](https://docs.google.com/presentation/d/1lniCfn7VDXL9lMiDKu75BAU5qlXSDhRuWcxRsCbBrmY/edit?usp=sharing){:target="_blank"}
 : **Pre-Lecture Videos**{: .label .label-blue } [Lecture 14 (All)](https://youtube.com/playlist?list=PLr509y092L2-tfWdlO-nn547M-Zwz6_N6){:target="_blank"}
 
 
