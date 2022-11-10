@@ -6,7 +6,7 @@ Nov 7th
 
 Nov 9th
 : **Input/Output (File IO)**
-  : [\[slides\]](){:target="_blank"}
+  : [\[slides\]](https://docs.google.com/presentation/d/1OB1hjZMcfILcAHLROl-E7K6qluN-FV640fYrOhdZv5I/edit?usp=sharing){:target="_blank"}
 : **Pre-Lecture Videos**{: .label .label-blue } [Lecture 10 ALL](https://youtube.com/playlist?list=PLr509y092L2_xEgUjdPCRvYh-bCyzJ6Oi){:target="_blank"}
 
 
