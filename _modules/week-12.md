@@ -11,4 +11,4 @@ Nov 9th
 
 
 Nov 10th
-: **Lab**{: .label .label-purple } TBD:
+: **Lab**{: .label .label-purple } Lab 9: Destructive Functions

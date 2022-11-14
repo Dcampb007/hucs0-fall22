@@ -14,4 +14,4 @@ Nov 16th
 
 
 Nov 17th
-: **Lab**{: .label .label-purple } TBD:
+: **Lab**{: .label .label-purple } Lab 10: TBD

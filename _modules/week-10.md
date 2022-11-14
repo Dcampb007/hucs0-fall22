@@ -13,4 +13,4 @@ Oct 26th
 
 
 Oct 27th
-: **Lab**{: .label .label-purple }Lab : TBD
+: **Lab**{: .label .label-purple }Lab 8: Nested Loops, Nested Lists

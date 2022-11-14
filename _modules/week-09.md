@@ -12,4 +12,4 @@ Oct 19th
 : **Pre-Lecture Videos**{: .label .label-blue } [Lecture 9.2, 9.4](https://youtube.com/playlist?list=PLr509y092L29-owhexIGvYZYF4-hfRGbJ){:target="_blank"}
 
 Oct 20th
-: **Lab**{: .label .label-purple }Lab : TBD
+: **Lab**{: .label .label-purple }Lab 7: Lists
