@@ -27,6 +27,5 @@ and Bootcamp. If you need to contact him, email him.
 * All assignments are due November 29th at 11:59PM. This will be the last time
 to redo assignments as TAs need to grade.
 
-*
 
 
