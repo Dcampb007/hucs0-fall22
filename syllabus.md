@@ -67,18 +67,30 @@ There will be two grading systems, both very similar, which will be applied to y
 | Projects | 26% | 14% |
 | Quizzes | 5% | 5% |
 
+
 ### Assignments
 These details are subject to change during the semester, however the current plan of record is the following:
 
-- ~8 Quizzes - random during lecture time, once a week. 
-- 12 Labs - 1x per week. Work w/ partners, submit individually
+- ~7 Quizzes - random during lecture time, once a week.
+- 10 Labs - 1x per week. Work w/ partners, submit individually
 - Homeworks - spread throughout the semester. Work individually, submit individually.
 - Projects
 
 Assignments will be due at 11:59pm, with a 10% penalty per each day that the assignment is late up to 5 days total.
 
 ### Exams
-Instead of one midterm and one final exam, this course will have 3 exams, spaced evenly across the semester, with the third exam happening during finals week. Exam 1 will be {ADD DATE}. Exam 2 is will be on {ADD DATE}. Exam 3 will take place during finals week. 
+Instead of one midterm and one final exam, this course will have 3 exams, spaced evenly across the semester, with the third exam happening during finals week. Exam 1 will be September 21st, 2022. Exam 2 is will be on November 7th, 2022. Exam 3 will take place on December 7th, 2022.
+
+### Final Grade Calculation
+In order to calculate your final grade in this class, we will make the following adjustments:
+    1. Drop 2 lowest quiz scores
+    2. Drop 2 lowest lab scores
+    3. Replace Exam 1 score with Exam 2 score IFF Exam 2 score is higher.
+    4. Select the higher of the two grading schemes mentioned above.
+
+
+'A' is >= 90, 'B' is >= 80, 'C' is >= 70, 'D' is >= 60, 'F' otherwise.
+
 
 ### Cheating
 

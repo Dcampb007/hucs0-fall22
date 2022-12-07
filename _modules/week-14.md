@@ -1,15 +1,15 @@
 ---
 title: Week 14
 ---
-Nov 14th
+Nov 21st
 : **No Lecture - Thanksgiving Break**
 
 
 
-Nov 16th
+Nov 23rd
 : **No Lecture - Thanksgiving Break**
 
 
 
-Nov 17th
+Nov 24th
 : **No Lab - Thanksgiving Break**
