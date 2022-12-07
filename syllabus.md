@@ -83,10 +83,11 @@ Instead of one midterm and one final exam, this course will have 3 exams, spaced
 
 ### Final Grade Calculation
 In order to calculate your final grade in this class, we will make the following adjustments:
-    1. Drop 2 lowest quiz scores
-    2. Drop 2 lowest lab scores
-    3. Replace Exam 1 score with Exam 2 score IFF Exam 2 score is higher.
-    4. Select the higher of the two grading schemes mentioned above.
+
+- Drop 2 lowest quiz scores
+- Drop 2 lowest lab scores
+- Replace Exam 1 score with Exam 2 score IFF Exam 2 score is higher.
+- Select the higher of the two grading schemes mentioned above.
 
 
 'A' is >= 90, 'B' is >= 80, 'C' is >= 70, 'D' is >= 60, 'F' otherwise.
