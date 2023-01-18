@@ -23,7 +23,6 @@ By the end of the course, students will learn
  - Input/Output
  - Logic and Control Flow
  - Functions
- - Testing, Asserts
  - Algorithms
  - Runtime and efficiency
  - Objects and Classes
