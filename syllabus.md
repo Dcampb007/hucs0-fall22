@@ -25,7 +25,6 @@ By the end of the course, students will learn
  - Functions
  - Algorithms
  - Runtime and efficiency
- - Objects and Classes
  - Sets and Dictionaries
 
 ## Course Meetings
@@ -38,7 +37,7 @@ Lectures, labs, and office hours are the main ways in which you will interact wi
 | Section 3 |  MW 2:10PM - 3:00PM | Thur 12:40PM - 1:30PM |
 
 ### Lecture
-Lectures for this course will be 100% virtual. This class will use a hybrid classroom model, where pre-lecture videos will be sent out before class that you must watch. You will be expected to have watched the videos before class. classtime will be spent in the following ways: reviewing materials mentioned in the videos, adding more explanation where needed, answering student questions on the material, and working through practice problems. You are expected to come to each class, having watched the lecture videos, as there will be weekly quizzes given at a random time during class. 
+Lectures for this course will be 100% virtual. This class will use a hybrid classroom model, where pre-lecture videos will be sent out before class that you must watch. You will be expected to have watched the videos before class. class time will be spent in the following ways: reviewing materials mentioned in the videos, adding more explanation where needed, answering student questions on the material, and working through practice problems. You are expected to come to each class, having watched the lecture videos, as there will be weekly quizzes given at a random time during class.
 
 ### Labs
 Labs for this course will be 100% virtual. Labs will allow you to apply the new concepts that you're learning in lecture to broader, graded problems. You will be given problems to solve, that you'll be able to work on with your peers in groups of 4. Your labs will be submitted on Codio and graded by the Codio autograder. Labs will be released each Wednesday evening, and will be due the following Tuesday at 11:59pm. 
