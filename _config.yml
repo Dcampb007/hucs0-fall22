@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: HU CS0
-tagline: Howard University CS0 Fall 2022
+tagline: Howard University CS0 Fall 2024
 description: CSCI100 - Intro to Computer Science
-author: Andre Campbell
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://hucs0.org' # the base hostname & protocol for your site, e.g. http://example.com
+author: Mikayla Orange
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://hucs0.org" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -29,13 +29,13 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Codio:
-    - 'https://codio.com/home/student?course_id=76f65424b23ec0867ce4804ddb2eb99f'
+    - "https://codio.com/home/student?course_id=76f65424b23ec0867ce4804ddb2eb99f"
   Piazza:
-    - 'https://piazza.com/class/l6vgfi5d80x6rz'
-  Pre-Lecture Videos:
-    - 'https://www.youtube.com/channel/UCS-xiMGMN9YsMxQnqAai4hw'
+    - "https://piazza.com/class/l6vgfi5d80x6rz"
+  Videos:
+    - "https://www.youtube.com/channel/UCS-xiMGMN9YsMxQnqAai4hw"
   PythonTutor:
-    - 'https://pythontutor.com/composingprograms.html#mode=edit'
+    - "https://pythontutor.com/composingprograms.html#mode=edit"
 
 footer_content:
 
@@ -48,27 +48,27 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/images/'
+      subpath: "assets/images/"
   - scope:
-      path: ''
+      path: ""
       type: modules
     values:
       layout: module
   - scope:
-      path: ''
+      path: ""
       type: schedules
     values:
       layout: schedule
   - scope:
-      path: ''
+      path: ""
       type: announcements
     values:
       layout: announcement
-      subpath: '/assets/images/'
+      subpath: "/assets/images/"
 
 compress_html:
   clippings: all
@@ -80,7 +80,7 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
-  
+
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 ga_tracking: UA-5555555-55
