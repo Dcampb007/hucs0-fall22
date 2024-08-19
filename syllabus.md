@@ -36,9 +36,9 @@ Lectures, labs, and office hours are the main ways in which you will interact wi
 
 | Section | Lecture | Lab | Location |
 | --- | --- | --- | --- |
-| Section 1 | MW 9:10am - 10:00am | Th 9:10am - 10:00am | Mackey Building |
-| Section 2 | MW 10:10am - 11:00am | Th 9:10am - 11:00am | Mackey Building |
-| Section 3 | MW 2:10pm - 3:00pm | Th 12:40pm - 1:30pm | Mackey Building |
+| Section 1 | MW 9:10am - 10:00am | Th 9:10am - 10:00am | Mackey Building Innovation Space|
+| Section 2 | MW 10:10am - 11:00am | Th 9:10am - 11:00am | Mackey Building Innovation Space|
+| Section 3 | MW 2:10pm - 3:00pm | Th 12:40pm - 1:30pm | Mackey Building Innovation Space |
 
 **Lectures**
 
@@ -58,7 +58,7 @@ The course staff is committed to ensuring that no student falls behind due to la
 
 ### Grading
 
-Grading in this course will be done using one of two systems, one that has more height on exams, and one that has more weight on assignments. The goal for this is to ensure that you are not mainly focused on getting a certain grade, but learning the concepts and applying. Whichever of these two weights are higher for you will be your final grade
+Grading in this course will be done using one of two systems, one that has more weight on exams, and one that has more weight on assignments. The goal for this is to ensure that you are not mainly focused on getting a certain grade, but learning the concepts and applying. Whichever of these two weights are higher for you will be your final grade
 
 | Assignment Type | Weight 1 (Exam based) | Weight 2 (Assignment Based) |
 | --- | --- | --- |
