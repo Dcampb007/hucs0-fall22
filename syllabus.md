@@ -37,7 +37,7 @@ Lectures, labs, and office hours are the main ways in which you will interact wi
 | Section | Lecture | Lab | Location |
 | --- | --- | --- | --- |
 | Section 1 | MW 9:10am - 10:00am | Th 9:10am - 10:00am | Mackey Building Innovation Space|
-| Section 2 | MW 10:10am - 11:00am | Th 9:10am - 11:00am | Mackey Building Innovation Space|
+| Section 2 | MW 10:10am - 11:00am | Th 10:10am - 11:00am | Mackey Building Innovation Space|
 | Section 3 | MW 2:10pm - 3:00pm | Th 12:40pm - 1:30pm | Mackey Building Innovation Space |
 
 **Lectures**
