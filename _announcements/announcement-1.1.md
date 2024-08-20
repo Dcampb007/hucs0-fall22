@@ -13,7 +13,7 @@ date: 2024-08-19
 - How to access Piazza : [www.shortl.io/cs0-piazza](https://piazza.com/howard_cs0/fall2024/csci100
 )
   - Term: Fall 2024
-  - Class 1:  "CSCI100: Intro to Computer Science"
+  - Class 1:  "CSCI100: Intro to CS"
   - Class Code: cs024
 
 
