@@ -13,5 +13,5 @@ Aug 21
 : **Related Lecture Videos**{: .label .label-blue } [Lecture 1.3 and 1.4](https://youtube.com/playlist?list=PLr509y092L29Yfu6uie3T0ArYdJsuKpeQ){:target="\_blank"}
 
 Aug 23
-: **Google Pre-Assessment** [\[slides\]]([https://docs.google.com/presentation/d/1EpQ9efo0xEQ-3vaT_02WsNti1jCJQwHZ2l88z9ZBjUg/edit?usp=sharing](https://docs.google.com/presentation/d/1YYKJ-3zFkiYfXXL1nGzCeYREIBhw8nUnavXwGDMIXSA/edit?usp=sharing){:target="\_blank"}
+: **Google Pre-Assessment** [\[slides\]](https://docs.google.com/presentation/d/1YYKJ-3zFkiYfXXL1nGzCeYREIBhw8nUnavXwGDMIXSA/edit?usp=sharing){:target="\_blank"}
 
