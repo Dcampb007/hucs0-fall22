@@ -52,7 +52,7 @@ Labs are a great time to get any questions answered by the instructor, the TAs o
 
 ### Office Hours
 
-This semester, there will be a mix of in-person and virtual office hours offered at a wide variety of times. Links for virtual office hours will be found under Course Schedule on the course website ([hucs0.org](http://hucs0.org)). Miss. Orange's office hours will be held in person in her office, while any in person office hours held by TAs will be at their discretion. You are more than welcome to come to office hours for any reason (talk about assignments, get any logistical questions answered, get career advice, or just to hang out).
+This semester, there will be a mix of in-person and virtual office hours offered at a wide variety of times. Links for virtual office hours will be found under Calendar on the course website ([hucs0.org](http://hucs0.org/clanedar)). Miss. Orange's office hours will be held in person in her office, while any in person office hours held by TAs will be at their discretion. You are more than welcome to come to office hours for any reason (talk about assignments, get any logistical questions answered, get career advice, or just to hang out).
 
 The course staff is committed to ensuring that no student falls behind due to lack of resources, so if there's anything you need help with, please do not stay silent. No question is bad question in this class, and we are more than happy to help you!
 
