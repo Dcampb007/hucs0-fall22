@@ -11,3 +11,10 @@ Aug 26
 - 
 
 
+Aug 28
+: **Data Types and Operators** [\[slides\]](https://docs.google.com/presentation/d/1Iab_X8T3pTj876H4SpkNcb2vTPJ8yLzoRNGccyS338s/edit?usp=sharing){:target="\_blank"}
+: **Resoruces**{: .label .label-blue }
+-  [Lecture 4](https://www.youtube.com/watch?v=KizCdMJJk0s&list=PLr509y092L28OfTqL6EiJwlk3ycYGYaQI){:target="\_blank"}
+- [W3Schools on Data Types](https://www.w3schools.com/python/python_datatypes.asp) Take a look at the entries Numbers throguh Operators as well
+- [Another video on variables and data types](https://www.youtube.com/watch?v=LKFrQXaoSMQ)
+- [And one more video on operators :)](https://www.youtube.com/watch?v=7BxUaeROVXI)
