@@ -18,3 +18,5 @@ Aug 28
 - [W3Schools on Data Types](https://www.w3schools.com/python/python_datatypes.asp) Take a look at the entries Numbers throguh Operators as well
 - [Another video on variables and data types](https://www.youtube.com/watch?v=LKFrQXaoSMQ)
 - [And one more video on operators :)](https://www.youtube.com/watch?v=7BxUaeROVXI)
+Aug 29 
+: **Lab 1**{: .label .label-blue } Due September 4th at 11:59pm
