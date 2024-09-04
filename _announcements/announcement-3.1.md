@@ -1,6 +1,6 @@
 ---
-title: Announcement 2.1 - Office Hours and Piazza Signup
-week: 2
+title: Announcement 3.1 - Reminders
+week: 3
 date: 2024-09-04
 ---
 
