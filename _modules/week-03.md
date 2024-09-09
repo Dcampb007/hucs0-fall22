@@ -8,3 +8,6 @@ Sep 4
 - [RealPython on Conditionals](https://realpython.com/python-conditional-statements/)
 - [Video on while loops](https://www.youtube.com/watch?v=ECduJk00mUU)
 - [Codingbat practice problems](https://codingbat.com/python/Logic-1)
+
+Sep 5
+: **Lab 2**{: .label .label-blue } Due September 11th at 11:59pm
