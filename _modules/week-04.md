@@ -10,3 +10,6 @@ Sep 9th
 - [Pynative Practice Problems](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/)
 - [Video on for loops](https://www.youtube.com/watch?v=lNDgpDHlyRU)
 - [Edge Cases Guide](https://docs.google.com/document/d/1erH8pX7RWOcaF2SLMjThGzq7nwDChwIruURsV9-wGN8/edit?usp=sharing)
+
+Sep 11
+: **Conditionals Review** [\[slides\]](https://docs.google.com/presentation/d/1Q9APTp7DSacyYlbWp_cdLK8D5vPA_qUoo4I5vyB4V4w/edit?usp=sharing){:target="\_blank"}
