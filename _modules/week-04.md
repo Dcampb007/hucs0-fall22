@@ -11,5 +11,8 @@ Sep 9th
 - [Video on for loops](https://www.youtube.com/watch?v=lNDgpDHlyRU)
 - [Edge Cases Guide](https://docs.google.com/document/d/1erH8pX7RWOcaF2SLMjThGzq7nwDChwIruURsV9-wGN8/edit?usp=sharing)
 
-Sep 11
+Sep 11th
 : **Conditionals Review** [\[slides\]](https://docs.google.com/presentation/d/1Q9APTp7DSacyYlbWp_cdLK8D5vPA_qUoo4I5vyB4V4w/edit?usp=sharing){:target="\_blank"}
+
+Sep 12th
+: **While Loops Review** [\[slides\]](https://docs.google.com/presentation/d/1fwABEHEki2VTBBsK42fI0qXpKoIocGPEe9zMw9Jty4s/edit?usp=sharing){:target="\_blank"}
