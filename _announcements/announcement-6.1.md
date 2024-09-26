@@ -8,7 +8,7 @@ date: 2024-09-23
 
 - **Lab 3 will be due Friday, September 27th at 11:59pm**
   - Make sure you mark the assignment as complete when you're done. Forgetting to do so will not count as a valid excuse. Continue to ask questions on Piazza and attend office hours
-- **The first of Google's 6-week Tech Series will be Thursday, September 25th**
+- **The first of Google's 6-week Tech Series will be Thursday, September 26th**
    - Please try to come to this virtual event if you can make it. The topic will be on **Software Engineering** 
 
    - Join at [meet.google.com/fyd-shww-pbx](meet.google.com/fyd-shww-pbx) (Google Meet) 
