@@ -1,7 +1,7 @@
 ---
-title: Announcement 6.1
-week: 6
-date: 2024-09-23
+title: Announcement 7.1
+week: 7
+date: 2024-09-30
 ---
 
 #### **Announcements**
