@@ -17,3 +17,6 @@ Sep 18th
 - [Python Errors Guide](https://docs.google.com/document/d/1S9DKwV66X5zdpiikkvXE7OnUneR4FRKem3v2xGc4zRg/edit?usp=sharing)
 - [GeeksForGeeks on string indexing and slicing](https://www.geeksforgeeks.org/how-to-index-and-slice-strings-in-python/)
 - [Edge Cases Guide](https://docs.google.com/document/d/1erH8pX7RWOcaF2SLMjThGzq7nwDChwIruURsV9-wGN8/edit?usp=sharing)
+
+Sep 26th
+: **Lab 3**{: .label .label-blue } Due September 27th at 11:59pm

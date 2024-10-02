@@ -10,3 +10,5 @@ Sep 30th
 - [Video on functions](https://www.youtube.com/watch?v=89cGQjB5R4M)
 - [Edge Cases Guide](https://docs.google.com/document/d/1erH8pX7RWOcaF2SLMjThGzq7nwDChwIruURsV9-wGN8/edit?usp=sharing)
 
+Oct 2nd
+: **Functions pt 2** [\[slides\]](https://docs.google.com/presentation/d/17tE11meuFZq21WN6o7bYe0ur3nt8c-ANDRtc3ymT010/edit?usp=sharing){:target="\_blank"}
