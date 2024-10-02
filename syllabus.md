@@ -82,7 +82,12 @@ Assignments will be due at 11:59pm, with a 10% penalty for each day it's late, u
 
 ### Exams
 
-Instead of the traditional 1 midterm and 1 final, there will be 3 exams spaced evenly throughout the semester, with the third exam taking place during finals week. Exam 1 will be Wednesday, September 25th, 2024, Exam 2 will be Wednesday, November 6th, 2024, and the final exam date to TBA.
+Instead of the traditional 1 midterm and 1 final, there will be 3 exams spaced evenly throughout the semester, with the third exam taking place during finals week. Exam 1 will be Wednesday, September 25th, 2024, Exam 2 will be Wednesday, November 6th, 2024, and the final exam date will be as follows:
+
+| **Section** | **Final Exam Date** | **Final Exam Time** |
+| Section 1 | Wednesday, December 4th | 11:00 am - 1:00 am |
+| Section 2 | Wednesday, December 4th | 2:00 pm - 4:00 pm |
+| Section 3 | Friday, December 6th | 2:00 pm - 4:00 pm |
 
 ### Final Grade Calculation
 

@@ -8,3 +8,6 @@ Sep 23rd
 
 Sep 25th
 : **Exam 1 on Codio** 
+
+Sep 26th
+: **Lab 4**{: .label .label-blue } Due October 4th at 11:59pm
