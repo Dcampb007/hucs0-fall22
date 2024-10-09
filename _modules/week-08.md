@@ -10,3 +10,6 @@ Oct 7th
 - [Video on lists](https://www.youtube.com/watch?v=9OeznAkyQz4)
 - [Another video on lists](https://www.youtube.com/watch?v=9q_WqcW4Jdc)
 - [Edge Cases Guide](https://docs.google.com/document/d/1erH8pX7RWOcaF2SLMjThGzq7nwDChwIruURsV9-wGN8/edit?usp=sharing)
+
+Oct 9th
+: **Lists pt 2** [\[slides\]](https://docs.google.com/presentation/d/1-nJOL6AK3lSr3sKJS4wv8Y3eKWs2hjbvmZaB8af-NJ0/edit?usp=sharing){:target="\_blank"}
