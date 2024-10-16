@@ -1,5 +1,5 @@
 ---
-title: Week 7
+title: Week 8
 ---
 
 Oct 7th
