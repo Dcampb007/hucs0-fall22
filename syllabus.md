@@ -32,7 +32,7 @@ By the end of the course, students will learn
 
 ### Course Meetings
 
-Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](https://hucs0.org/schedule/). You must attend the lecture/lab time that you are assigned on BisonHub.
+Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](https://hucs0.org/schedule/). You must attend the lecture/lab time that you are assigned on Workday.
 
 | Section | Lecture | Lab | Location |
 | --- | --- | --- | --- |
@@ -42,11 +42,11 @@ Lectures, labs, and office hours are the main ways in which you will interact wi
 
 **Lectures**
 
-Lectures will be **in person** twice weekly on Mondays and Wednesdays. During this time we will go over new concepts, review previous concepts, and go through practice scencarios. Students are expected to come to lecture each week, as there be weekly quizzes assigned at a random time during class.
+Lectures will be **in person** twice weekly on Mondays and Wednesdays. During this time we will go over new concepts, review previous concepts, and go through practice scencarios. Students are expected to come to lecture each week, as there be weekly quizzes assigned at a random time during class. Exams and quizzes can only be made up if there is a documented excuse
 
 **Labs**
 
-Labs this semester will be **in person** once weekly on Thursdays. During this time we will apply topics taught the two lectures during that week. You will be able to work in pairs during your lab assignments and submit their assignments **individually.** Labs will be done in Codio and graded by the Codio autograder unless otherwise specified. Labs will be released Wednesday evenings, and will be due the following Wednesday at 11:59pm Eastern Time.
+Labs this semester will be **in person** once weekly on Thursdays. During this time we will apply topics taught the two lectures during that week. You will be able to work in pairs during your lab assignments and submit their assignments **individually.** Labs will be done in Codio and graded by the Codio autograder unless otherwise specified. Labs will be released Wednesday evenings, and will be due the following Friday at 11:59pm Eastern Time.
 
 Labs are a great time to get any questions answered by the instructor, the TAs or your peers, so take advantage of that time!
 
