@@ -21,3 +21,6 @@ Nov 6th
 - [Youtube Video on Classes](https://www.youtube.com/watch?v=q2SGW2VgwAM)
 - [Why use classes instead of functions?](https://www.reddit.com/r/learnpython/comments/1mc8ih/why_should_you_use_classes_instead_of_functions/)
 - [Classes in 1 minute](https://www.youtube.com/watch?v=yYALsys-P_w)
+
+Nov 7th
+: **Exam 2 Review** [\[slides\]](https://docs.google.com/presentation/d/11yB46OY54ZpRtJImz51bsiaI6jHokAQa3Q3FDJE7GEw/edit?usp=sharing){:target="\_blank"}
