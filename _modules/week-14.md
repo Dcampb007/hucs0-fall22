@@ -9,3 +9,5 @@ Nov 20th
 - [Github Best Practices](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/best-practices-for-projects)
 - [Github Tutorial](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 
+Nov 21st
+: **Lab**{: .label .label-blue} Post-Assessment
