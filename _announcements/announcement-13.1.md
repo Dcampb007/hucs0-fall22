@@ -1,5 +1,3 @@
-
-
 ---
 title: Announcement 13.1
 week: 13
