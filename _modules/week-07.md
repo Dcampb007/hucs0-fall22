@@ -3,7 +3,7 @@ title: Week 6
 ---
 
 Sep 30th
-: **Functions pt 1** [\[slides\]](https://docs.google.com/presentation/d/1AYmaC41IZNCJClAfUNdSc8nlozCcZVeWLVPcJJ18kE8/edit?usp=sharing){:target="\_blank"}
+: **Functions pt 1: Creating/Calling functions** [\[slides\]](https://docs.google.com/presentation/d/1QH-C9snt7oe4uzhX28sfcsxYN9EKyUf-qNC6aGEgOHE/edit?usp=sharing){:target="\_blank"}
 : **Resoruces**{: .label .label-blue }
 - [Programiz on Functions](https://www.programiz.com/python-programming/function)
 - [Python Errors Guide](https://docs.google.com/document/d/1S9DKwV66X5zdpiikkvXE7OnUneR4FRKem3v2xGc4zRg/edit?usp=sharing)
@@ -11,4 +11,4 @@ Sep 30th
 - [Edge Cases Guide](https://docs.google.com/document/d/1erH8pX7RWOcaF2SLMjThGzq7nwDChwIruURsV9-wGN8/edit?usp=sharing)
 
 Oct 2nd
-: **Functions pt 2** [\[slides\]](https://docs.google.com/presentation/d/17tE11meuFZq21WN6o7bYe0ur3nt8c-ANDRtc3ymT010/edit?usp=sharing){:target="\_blank"}
+: **Functions pt 2: Return Values** [\[slides\]](https://docs.google.com/presentation/d/1fJXm370nPDDB5kv8Z12ohwHu1xD32zNpkiMu8yy7WJs/edit?usp=sharing){:target="\_blank"}

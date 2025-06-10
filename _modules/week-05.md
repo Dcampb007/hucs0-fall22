@@ -3,7 +3,7 @@ title: Week 5
 ---
 
 Sep 16th
-: **For Loops with Range** [\[slides\]](https://docs.google.com/presentation/d/12edsd2b5t6yazX7dz54pUj7A9DZ4U6NL6A7ls2yKYsk/edit?usp=sharing){:target="\_blank"}
+: **For Loops with Range** [\[slides\]](https://docs.google.com/presentation/d/1I8zM7mQb0D7yoF8fx1ByjcH_DwZUNGfaIrLfFzCaRGU/edit?usp=sharing){:target="\_blank"}
 : **Resoruces**{: .label .label-blue }
 - [Range](https://www.programiz.com/python-programming/methods/built-in/range)
 - [Python Errors Guide](https://docs.google.com/document/d/1S9DKwV66X5zdpiikkvXE7OnUneR4FRKem3v2xGc4zRg/edit?usp=sharing)
@@ -11,7 +11,7 @@ Sep 16th
 - [Edge Cases Guide](https://docs.google.com/document/d/1erH8pX7RWOcaF2SLMjThGzq7nwDChwIruURsV9-wGN8/edit?usp=sharing)
 
 Sep 18th
-: **String Manipulation** [\[slides\]](https://docs.google.com/presentation/d/1vAfzBPvGnJQFbb6uZZiTJcJBh-ymUFdR1aWjjGDvLo4/edit?usp=sharing){:target="\_blank"}
+: **String Manipulation** [\[slides\]](https://docs.google.com/presentation/d/1U-gKWw9PnsCtcqYfj-bg8Oz8ptg7jdC8BVlUONfIAGg/edit?usp=sharing){:target="\_blank"}
 : **Resoruces**{: .label .label-blue }
 - [Video on indexing and slicing](https://www.youtube.com/watch?v=7pXf1DUuaIo)
 - [Python Errors Guide](https://docs.google.com/document/d/1S9DKwV66X5zdpiikkvXE7OnUneR4FRKem3v2xGc4zRg/edit?usp=sharing)

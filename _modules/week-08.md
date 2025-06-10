@@ -3,7 +3,7 @@ title: Week 8
 ---
 
 Oct 7th
-: **Lists pt 1** [\[slides\]](https://docs.google.com/presentation/d/1kE0YqaU-00P_BqQr-7G6Pgw9mN9CC2fcvBx0MXZaJYg/edit?usp=sharing){:target="\_blank"}
+: **Lists pt 1: Creating and Appending** [\[slides\]](https://docs.google.com/presentation/d/1Bp8n8ulcZYQtvPdeFIOynO8imTI0fOr5ORzPXVeOACE/edit?usp=sharing){:target="\_blank"}
 : **Resoruces**{: .label .label-blue }
 - [W3Schools on Lists](https://www.w3schools.com/python/python_lists.asp)
 - [Python Errors Guide](https://docs.google.com/document/d/1S9DKwV66X5zdpiikkvXE7OnUneR4FRKem3v2xGc4zRg/edit?usp=sharing)
@@ -12,4 +12,4 @@ Oct 7th
 - [Edge Cases Guide](https://docs.google.com/document/d/1erH8pX7RWOcaF2SLMjThGzq7nwDChwIruURsV9-wGN8/edit?usp=sharing)
 
 Oct 9th
-: **Lists pt 2** [\[slides\]](https://docs.google.com/presentation/d/1-nJOL6AK3lSr3sKJS4wv8Y3eKWs2hjbvmZaB8af-NJ0/edit?usp=sharing){:target="\_blank"}
+: **Lists pt 2: Indexing and more** [\[slides\]](https://docs.google.com/presentation/d/16Ml9nzSzK2ZgpaakG3LUp42gVQQgzr9EpfbUrVF_X1k/edit?usp=sharing){:target="\_blank"}

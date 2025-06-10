@@ -5,6 +5,10 @@ date: 2024-12-18
 ---
 
 ### Some Extra Resources
+
+**If you need to get in contact with me for any reason, please send me an email at [mikayladorange@gmail.com](mailto:mikayladorange@gmail.com)! I do not have my hucs0 or howard.edu email, so this is the only way to get in touch with me if you need to (other than linkedin ofc)**
+
+
 Hey y'all! Just wanted to share some extra resources that may be helpful for you.
 
 - If you haven't done so already, make sure you create a [LinkedIn account](https://www.linkedin.com/). It's a professional networking site that will help you in your career presence online. Here's some [tips](https://shorelight.com/student-stories/how-to-use-linkedin-effectively-as-a-college-student/) to help you get started on making a good account

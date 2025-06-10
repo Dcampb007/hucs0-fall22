@@ -3,7 +3,7 @@ title: Week 6
 ---
 
 Sep 23rd
-: **Slido Questions** [\[slides\]](https://docs.google.com/presentation/d/1FSujiM8mKxxfx2sJZhsP-qDxJ4ukieE7swqP9u5yH0c/edit?usp=sharing){:target="\_blank"}
+: **Slido Questions** [\[slides\]](https://docs.google.com/presentation/d/1p9XPCq7tmPnLuBpprXZ6p3Bto4VRng_iWNG7C7ojGfo/edit?usp=sharing){:target="\_blank"}
 
 
 Sep 25th

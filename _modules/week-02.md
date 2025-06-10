@@ -3,7 +3,7 @@ title: Week 2
 ---
 
 Aug 26
-: **Variables and Input** [\[slides\]](https://docs.google.com/presentation/d/1gT9V2MVB2kF-KLSY0wWTutayDlG3ei3w-L1kcqPgu6A/edit?usp=sharing){:target="\_blank"}
+: **Variables and Input** [\[slides\]](https://docs.google.com/presentation/d/1_kkDVhmtIyNr1Qb4ImJng4cjX65UnNT_5Kp0cPKLfFk/edit?usp=sharing){:target="\_blank"}
 : **Resoruces**{: .label .label-blue }
 -  [Lecture 3](https://www.youtube.com/watch?v=_CLhi3fxvIw&list=PLr509y092L28mMKYbl4cqA26SrxJfd50z){:target="\_blank"}
 - [W3Schools on Variables](https://www.w3schools.com/python/python_variables.asp)
@@ -12,7 +12,7 @@ Aug 26
 
 
 Aug 28
-: **Data Types and Operators** [\[slides\]](https://docs.google.com/presentation/d/1Iab_X8T3pTj876H4SpkNcb2vTPJ8yLzoRNGccyS338s/edit?usp=sharing){:target="\_blank"}
+: **Data Types and Operators** [\[slides\]](https://docs.google.com/presentation/d/1IGK5yyeJ1wDCUcfwWl-8gRzQxeh0ohpVfJWrDQKoPzw/edit?usp=sharing){:target="\_blank"}
 : **Resoruces**{: .label .label-blue }
 -  [Lecture 4](https://www.youtube.com/watch?v=KizCdMJJk0s&list=PLr509y092L28OfTqL6EiJwlk3ycYGYaQI){:target="\_blank"}
 - [W3Schools on Data Types](https://www.w3schools.com/python/python_datatypes.asp) Take a look at the entries Numbers throguh Operators as well
